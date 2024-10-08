@@ -1,0 +1,156 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase
+}
+
+
+ul {
+    display: flex;
+   justify-content: space-between;
+   list-style: none;
+}
+
+
+ul li {
+    margin-right: 2em;    
+}
+
+
+a {
+    text-decoration: none;
+    color: #027788;
+    margin: 1em;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+body {
+    font-family: 'verdana', sans-serif;;
+}
+
+
+h1 {
+    font-size: 6em;
+    color: #027788;
+    font-weight: 350;
+    margin: 1em;
+}
+
+
+img {
+    margin: 2em;
+}
+
+
+p {
+    flex: auto;
+    display: flex;
+    justify-content: space-around;
+    margin: 1em;
+}
+
+
+h2 {
+    color: white;
+    font-size: 4em;
+    margin: 1em;
+}
+
+
+h3 {
+    color: #027788;
+    font-size: 4em; 
+    margin: 1em;
+}
+
+
+h4 {
+    color: #027788;
+    font-size: 3em;
+    font-weight: 5;
+    margin: 1em;
+}
+
+
+h5 { 
+   font-size: 2em; 
+   margin: 1em;
+}
+
+
+footer {
+    background-color: #B8E3E9;
+    font-size: 1em;
+}
+
+
+footer p {
+    font-size: 2em;
+}
+
+
+p {
+    color: black;
+    font-size: 2em;
+}
+
+
+iframe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vw;
+    width: 50vw;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+section {
+    background-color: white
+}
+
+
+.hero {
+    background: linear-gradient(to bottom, white, #B8E3E9 ); /* Ik heb opgezocht hoe dit moet, antwoord gevonden op shecodes.io */;
+    display: flex;
+}
+
+
+.knop {
+    font-size: 2em;
+}
+
+
+.gekleurd-vlak {
+    background-color: #027788;
+    color: white;
+}
+
+
+.bestellen {
+    color: #027788;
+}
+
+
+.tekst-over-ons {
+    color: #027788;
+}
+
+  
